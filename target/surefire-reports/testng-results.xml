@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68052" started-at="2019-09-03T05:18:20Z" finished-at="2019-09-03T05:19:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68052" started-at="2019-09-03T05:18:20Z" finished-at="2019-09-03T05:19:28Z">
+      <class name="com.k2js.mavenselemiumfw.pageobjects.testscripts.NewToursTestScripts">
+        <test-method status="PASS" signature="verifyConfirmationMsg()[pri:0, instance:com.k2js.mavenselemiumfw.pageobjects.testscripts.NewToursTestScripts@73f792cf]" name="verifyConfirmationMsg" duration-ms="61995" started-at="2019-09-03T10:48:20Z" finished-at="2019-09-03T10:49:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConfirmationMsg -->
+        <test-method status="PASS" signature="verifyThePageTitel()[pri:0, instance:com.k2js.mavenselemiumfw.pageobjects.testscripts.NewToursTestScripts@73f792cf]" name="verifyThePageTitel" duration-ms="6025" started-at="2019-09-03T10:49:22Z" finished-at="2019-09-03T10:49:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThePageTitel -->
+      </class> <!-- com.k2js.mavenselemiumfw.pageobjects.testscripts.NewToursTestScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,8 @@
+com\k2js\mavenselemiumfw\pageobjects\pageobjects\RegestrationPage.class
+com\k2js\mavenselemiumfw\pageobjects\util\BrowserFactory.class
+com\k2js\mavenselemiumfw\pageobjects\pageobjects\ConfirmPage.class
+com\k2js\mavenselemiumfw\pageobjects\testscripts\NewToursTestScripts.class
+com\k2js\mavenselemiumfw\pageobjects\pageobjects\ReservationPage.class
+com\k2js\mavenselemiumfw\pageobjects\pageobjects\BasePage.class
+com\k2js\mavenselemiumfw\pageobjects\pageobjects\HomePage.class
+com\k2js\mavenselemiumfw\pageobjects\util\CommonUtil.class

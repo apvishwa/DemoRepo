@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test">
+    <classes>
+      <class name="com.k2js.mavenselemiumfw.pageobjects.testscripts.NewToursTestScripts">
+        <methods>
+          <include name="verifyReservationPageHeading"/>
+        </methods>
+      </class> <!-- com.k2js.mavenselemiumfw.pageobjects.testscripts.NewToursTestScripts -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->
